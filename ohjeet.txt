@@ -1,0 +1,9 @@
+----------------------------------------------------------------------
+---
+--
+--Tässä on oleva sitten ohjelman ohjeet.
+--
+--Hienoa! Se tulostaa sittenkin.
+--
+--Miksi tämä tulostaa viimeisen rivin kahdesti?
+----------------------------------------------------------------------
